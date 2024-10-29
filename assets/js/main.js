@@ -13,6 +13,8 @@ function to standardize the title
 function setTitle(){
 	document.title = "WV Chess Storage";
 }
+
+
 /*
 	Solid State by HTML5 UP
 	html5up.net | @ajlkn
