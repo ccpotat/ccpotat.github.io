@@ -4255,8 +4255,8 @@ input, select, textarea {
 		margin: 0;
 	}
 	.header-button {
-		width: 7px;
-		hieght: 7px;
+		width: 5px;
+		hieght: 5px;
 		background-color: #2E3141;
 		font-family: 'Courier New';
 		color: white;
