@@ -4256,8 +4256,8 @@ input, select, textarea {
 	}
 	/* BROKEN */
 	.header-button {
-		width: 5px;
-		height: 5px;
+		width: 10px;
+		height: 10px;
 		background-color: #2E3141;
 		font-family: 'Courier New';
 		color: white;
